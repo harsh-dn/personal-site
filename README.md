@@ -1,5 +1,7 @@
 # Personal Website
 
+Special Thanks to Michael D'Angelo
+
 My personal website. A simple, easily modifiable, statically-exportable React application that deploys automatically for free using github pages. Built using modern javascript, based on create-react-app with React-Router, SCSS, github actions, and many other useful technologies.
 
 ## Adapting this Project
